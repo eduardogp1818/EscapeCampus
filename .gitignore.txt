@@ -1,0 +1,19 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+.vs/
+
+# Proyectos/soluciones
+*.csproj
+*.sln
+*.user
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.unitypackage
